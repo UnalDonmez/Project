@@ -1,0 +1,103 @@
+﻿[
+  {
+    "key": "GarantiPhoneNumberOkButton",
+    "value": "//*[@id='footer']/a[1]/img",
+    "type": "xpath"
+  },
+  {
+    "key": "GarantiPasswordOkButton",
+    "value": "//*[@id='footer']/a[2]/img",
+    "type": "xpath"
+  },
+  {
+    "key": "GarantiPassField1",
+    "value": "SIFRE1",
+    "type": "id"
+  },
+  {
+    "key": "GarantiPassField2",
+    "value": "SIFRE2",
+    "type": "id"
+  },
+  {
+    "key": "GarantiPassField3",
+    "value": "SIFRE3",
+    "type": "id"
+  },
+  {
+    "key": "GarantiPassField4",
+    "value": "SIFRE4",
+    "type": "id"
+  },
+  {
+    "key": "GarantiPassField5",
+    "value": "SIFRE5",
+    "type": "id"
+  },
+  {
+    "key": "GarantiPassField6",
+    "value": "SIFRE6",
+    "type": "id"
+  },
+  {
+    "key": "AkbankPassField",
+    "value": "//*[@type='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "AkbankSubmitButton",
+    "value": "submitbutton",
+    "type": "id"
+  },
+  {
+    "key": "turkparaPassword",
+    "value": "//input[@class='value' and @name='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "turkparaGonder",
+    "value": "//input[@id='submitbutton']",
+    "type": "xpath"
+  },
+
+
+  {
+    "key": "IsbankPassField",
+    "value": "//*[@type='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "IsbankSubmitButton",
+    "value": "submitbutton",
+    "type": "id"
+  },
+  {
+    "key": "HalkbankPassField",
+    "value": "//*[@type='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "HalkbankSubmitButton",
+    "value": "submitbutton",
+    "type": "id"
+  },
+  {
+    "key": "ZiraatPassField",
+    "value": "//*[@type='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "ZiraatSubmitButton",
+    "value": "submitbutton",
+    "type": "id"
+  }
+
+
+
+
+
+
+
+
+
+]

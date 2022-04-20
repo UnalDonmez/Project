@@ -1,0 +1,124 @@
+﻿[
+  {
+    "key": "AraButonu",
+    "value": "//button[@class='o-header__search--btn bmi-search']",
+    "type": "xpath"
+  },
+  {
+    "key": "AramaCubugu",
+    "value": "//input[@class='default-input o-header__search--input']",
+    "type": "xpath"
+  },
+  {
+    "key": "SearchButton",
+    "value": "//*[text()='ARA']",
+    "type": "xpath"
+  },
+  {
+    "key": "pantalonlar",
+    "value": "//div[@class='m-productImageList']",
+    "type": "xpath"
+  },
+  {
+    "key": "pantalonBedenler",
+    "value": "//span[@class='m-variation__item']",
+    "type": "xpath"
+  },
+  {
+    "key": "pantalonFiyet",
+    "value": "priceNew",
+    "type": "id"
+  },
+  {
+    "key": "DevamButonu",
+    "value": "nextBtn",
+    "type": "id"
+  },
+  {
+    "key": "SifremiUnuttumButonu",
+    "value": "forgotPasswordBtn",
+    "type": "id"
+  },
+  {
+    "key": "EmailInputField",
+    "value": "//input[@type='text']",
+    "type": "xpath"
+  },
+  {
+    "key": "MailUyarisi",
+    "value": "//div[@class='-errorMessage']",
+    "type": "xpath"
+  },
+  {
+    "key": "UyeOlmadansatinAl",
+    "value": "guestCheckoutBtn",
+    "type": "id"
+  },
+  {
+    "key": "GonderButonu",
+    "value": "sendBtn",
+    "type": "id"
+  },
+  {
+    "key": "ArttirilmisFiyat",
+    "value": "//div[@class='m-productPrice__content']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettekiiFiyat",
+    "value": "//span[@class='m-productPrice__salePrice']",
+    "type": "xpath"
+  },
+  {
+    "key": "SepetButonu",
+    "value": "addBasket",
+    "type": "id"
+  },
+  {
+    "key": "SepetimButonu",
+    "value": "//a[@class='o-header__userInfo--item bwi-cart-o -cart']/span[@class='o-header__userInfo--text']",
+    "type": "xpath"
+  },
+  {
+    "key": "AdetList",
+    "value": "quantitySelect0-key-0",
+    "type": "id"
+  },
+  {
+    "key": "productSize",
+    "value": "//span[@class='m-variation__item']",
+    "type": "xpath"
+  },
+  {
+    "key": "productCriticalSize",
+    "value": "//span[@class='m-variation__item -criticalStock']']",
+    "type": "xpath"
+  },
+  {
+    "key": "EmailInput",
+    "value": "//input[@id='Email']",
+    "type": "xpath"
+  },
+  {
+    "key": "PasswordInput",
+    "value": "//input[@id='Password']",
+    "type": "xpath"
+  },
+  {
+    "key": "LoginButton",
+    "value": "//button[@type='submit']",
+    "type": "xpath"
+  },
+  {
+    "key": "KeepMeSignInButton",
+    "value": "//div[@style='position: relative;']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  }
+
+
+]
