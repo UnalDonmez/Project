@@ -14,6 +14,9 @@ Scenario: BlackKite Success Login
 * LoginButton elementine tıkla
 * sayfa Dashboard değerini içeriyor mu
 * 2 saniye bekle
+* 2 saniye bekle
+* 2 saniye bekle
+
 
 Scenario: BlacKite UnSuccess Login
 * Driver'i ayaga kaldir

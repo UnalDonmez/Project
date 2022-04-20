@@ -94,36 +94,40 @@ testRunner.And("LoginButton elementine tıkla", ((string)(null)), ((TechTalk.Spe
 testRunner.And("sayfa Dashboard değerini içeriyor mu", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 16
 testRunner.And("2 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+#line 17
+testRunner.And("2 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+#line 18
+testRunner.And("2 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
             this.ScenarioCleanup();
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("BlacKite UnSeccess Login")]
-        public virtual void BlacKiteUnSeccessLogin()
+        [NUnit.Framework.DescriptionAttribute("BlacKite UnSuccess Login")]
+        public virtual void BlacKiteUnSuccessLogin()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("BlacKite UnSeccess Login", ((string[])(null)));
-#line 18
-this.ScenarioSetup(scenarioInfo);
-#line 19
-testRunner.And("Driver\'i ayaga kaldir", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
-#line 20
-testRunner.And("https://seam.riskscore.cards/ adresine git", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("BlacKite UnSuccess Login", ((string[])(null)));
 #line 21
-testRunner.And("1 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+this.ScenarioSetup(scenarioInfo);
 #line 22
-testRunner.And("LoginButton elementinin görünürlüğü kontrol edilir", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("Driver\'i ayaga kaldir", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 23
-testRunner.And("EmailInput elementine YanlisMail textini yaz", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("https://seam.riskscore.cards/ adresine git", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 24
-testRunner.And("PasswordInput elementine YanlisSifre textini yaz", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("1 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 25
-testRunner.And("LoginButton elementine tıkla", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("LoginButton elementinin görünürlüğü kontrol edilir", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 26
-testRunner.And("3 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("EmailInput elementine YanlisMail textini yaz", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 27
-testRunner.And("sayfa The Email field is not a valid e-mail address. değerini içeriyor mu", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+testRunner.And("PasswordInput elementine YanlisSifre textini yaz", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line 28
+testRunner.And("LoginButton elementine tıkla", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+#line 29
+testRunner.And("3 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+#line 30
+testRunner.And("sayfa The Email field is not a valid e-mail address. değerini içeriyor mu", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+#line 31
 testRunner.And("3 saniye bekle", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
             this.ScenarioCleanup();
